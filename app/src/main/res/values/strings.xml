@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="api_error">Ha ocurrido un error, intenta más tarde.</string>
 </resources>
